@@ -1,0 +1,9 @@
+minimapAlert.defaultData = {}
+minimapAlert.defaultData.trackingList = {}
+minimapAlert.defaultData.cachedNames = {}
+minimapAlert.defaultData.settings = {}
+minimapAlert.defaultData.settings.flashScreen = true
+minimapAlert.defaultData.settings.flashTaskbar = true
+minimapAlert.defaultData.settings.autoResumeAfterLoot = true
+minimapAlert.defaultData.settings.idleScan = false
+minimapAlert.defaultData.settings.playSound = true
