@@ -4,105 +4,129 @@ minimapAlert.trackables = {
       ['expanded'] = false,
       ['type'] = 'category',
       ['entries'] = {
-         [2] = {
-            ['name'] = 'Legion',
+         [1] = {
+            ['name'] = 'Classic',
             ['expanded'] = false,
             ['type'] = 'category',
             ['entries'] = {
-               [1] = { --Aethril
+               [1] = { --Silverleaf
                   ['type'] = 'object',
-                  ['itemID'] = 124101,
+                  ['itemID'] = 765,
                },
-               [2] = { --Dreamleaf
+               [2] = { --Mageroyal
                   ['type'] = 'object',
-                  ['itemID'] = 124102,
+                  ['itemID'] = 785,
                },
-                [3] = { --FoxFlower
+               [3] = { --Peacebloom
                   ['type'] = 'object',
-                  ['itemID'] = 124103,
-                },
-                [4] = { --Fjarn
-                    ['type'] = 'object',
-                    ['itemID'] = 124104,
-                },
-                [5] = { --Starlight Rose
-                    ['type'] = 'object',
-                    ['itemID'] = 124105,
-                },                    
+                  ['itemID'] = 2447,
+               },
+               [4] = { --Earthroot
+                  ['type'] = 'object',
+                  ['itemID'] = 2449,
+               },
+               [5] = { --Briarthorn
+                  ['type'] = 'object',
+                  ['itemID'] = 2450,
+               },
+               [6] = { --Bruiseweed
+                  ['type'] = 'object',
+                  ['itemID'] = 2453,
+               },
+               [7] = { --Wild Steelbloom
+                  ['type'] = 'object',
+                  ['itemID'] = 3355,
+               },
+               [8] = { --Kingsblood
+                  ['type'] = 'object',
+                  ['itemID'] = 3356,
+               },
+               [9] = { --Liferoot
+                  ['type'] = 'object',
+                  ['itemID'] = 3357,
+               },
+               [10] = { --Khadgar's Whisker
+                  ['type'] = 'object',
+                  ['itemID'] = 3358,
+               },
+               [11] = { --Grave Moss
+                  ['type'] = 'object',
+                  ['itemID'] = 3369,
+               },
+               [12] = { --Fadeleaf
+                  ['type'] = 'object',
+                  ['itemID'] = 3818,
+               },
+               [13] = { --Wintersbite
+                  ['type'] = 'object',
+                  ['itemID'] = 3819,
+               },
+               [14] = { --Stranglekelp
+                  ['type'] = 'object',
+                  ['itemID'] = 3820,
+               },
+               [15] = { --Goldthorn
+                  ['type'] = 'object',
+                  ['itemID'] = 3821,
+               },
+               [16] = { --Firebloom
+                  ['type'] = 'object',
+                  ['itemID'] = 4625,
+               },
+               [17] = { --Purple Lotus
+                  ['type'] = 'object',
+                  ['itemID'] = 8831,
+               },
+               [18] = { --Arthas' Tears
+                  ['type'] = 'object',
+                  ['itemID'] = 8836,
+               },
+               [19] = { --Sungrass
+                  ['type'] = 'object',
+                  ['itemID'] = 8838,
+               },
+               [20] = { --Blindweed
+                  ['type'] = 'object',
+                  ['itemID'] = 8839,
+               },
+               [21] = { --Ghost Mushroom
+                  ['type'] = 'object',
+                  ['itemID'] = 8845,
+               },
+               [22] = { --Gromsblood
+                  ['type'] = 'object',
+                  ['itemID'] = 8846,
+               },
+               [23] = { --Goldthorn Tea
+                  ['type'] = 'object',
+                  ['itemID'] = 10841,
+               },
+               [24] = { --Dreamfoil
+                  ['type'] = 'object',
+                  ['itemID'] = 13463,
+               },
+               [25] = { --Golden Sansam
+                  ['type'] = 'object',
+                  ['itemID'] = 13464,
+               },
+               [26] = { --Mountain Silversage
+                  ['type'] = 'object',
+                  ['itemID'] = 13465,
+               },
+               [27] = { --Plaguebloom
+                  ['type'] = 'object',
+                  ['itemID'] = 13466,
+               },
+               [28] = { --Icecap
+                  ['type'] = 'object',
+                  ['itemID'] = 13467,
+               },
+               [29] = { --Black Lotus
+                  ['type'] = 'object',
+                  ['itemID'] = 13468,
+               },
             }
          },
-        [1] = {
-            ['name'] = 'BfA',
-            ['expanded'] = false,
-            ['type'] = 'category',
-            ['entries'] = {
-                [1] = { --Akunda's Bite
-                    ['type'] = 'object',
-                    ['itemID'] = 152507,
-                },
-                [2] = { --Anchor Weed
-                    ['type'] = 'object',
-                    ['itemID'] = 152510,
-                },
-                [3] = { --Riverbud
-                    ['type'] = 'object',
-                    ['itemID'] = 152505,
-                },
-                [4] = { --Sea Stalk
-                    ['type'] = 'object',
-                    ['itemID'] = 152511,
-                },
-                [5] = { --Siren's Pollen
-                    ['type'] = 'object',
-                    ['itemID'] = 152509,
-                },    
-                [6] = { --Star Moss
-                    ['type'] = 'object',
-                    ['itemID'] = 152506,
-                }, 
-                [7] = { --Winter's Kiss
-                    ['type'] = 'object',
-                    ['itemID'] = 152508,
-                },    
-            }
-        }
       }
-   },
-   [2] = {
-      ['name'] = 'Mining',
-      ['expanded'] = false,
-      ['type'] = 'category',
-      ['entries'] = {
-         [1] = {
-            ['name'] = 'Legion',
-            ['expanded'] = false,
-            ['type'] = 'category',
-            ['entries'] = {
-               [1] = {
-                  ['type'] = 'object',
-                  ['itemID'] = 123919,
-               },
-               [2] = {
-                  ['type'] = 'object',
-                  ['itemID'] = 123918,
-               },
-               [3] = {
-                  ['type'] = 'object',
-                  ['itemID'] = 151564,
-               },
-            }
-         }
-      }
-   },
-    [3] = {
-        ['name'] = 'Legion',
-        ['expanded'] = false,
-        ['type'] = 'category',
-        ['entries'] = {
-            [1] = {
-                ['type'] = 'object',
-                ['itemID'] = 129039,
-            },
-        }
-    }
+   }
 }
