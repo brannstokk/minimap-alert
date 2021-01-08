@@ -330,7 +330,7 @@ local function nodeUpdate(self, elapsed)
         if isMatch() then
             if minimapAlert.saveData.settings.flashScreen then fullscreenGlow.Anim:Play() end
             if minimapAlert.saveData.settings.flashTaskbar then FlashClientIcon() end
-            if minimapAlert.saveData.settings.playSound then PlaySound(SOUNDKIT.RAID_WARNING) end
+            if minimapAlert.saveData.settings.playSound then PlaySound(SOUNDKIT.PVP_THROUGH_QUEUE) end
             guiFrame.glowAnimation:Play()
             foundNode = true
             switchState('RESET_STATE')
